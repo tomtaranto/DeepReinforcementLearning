@@ -2,6 +2,8 @@ import numpy as np
 
 
 class SingleAgentEnv:
+    def __init__(self):
+        pass
     def state_id(self) -> int:
         pass
 

@@ -1,5 +1,5 @@
 import numpy as np
-import SingleAgentEnv
+from SingleAgentEnv import SingleAgentEnv
 
 
 class LineWorld(SingleAgentEnv):
